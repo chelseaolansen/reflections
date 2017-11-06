@@ -5,3 +5,8 @@ When collaborating with folks using different computers or if you yourself are w
 Why night you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 You might have incomplete edits in the remote that you are not ready to pull into your local repository.
+
+Describe the difference between forks, clones, and branches. When would you use one instead of the other.
+
+A fork is a clone of a Github repository that is hosted on Github and links directly to its creator.
+A clone is a copy of a repository that is hosted locally or remotely, but does not use forking format if it is a clone of a Github repository to a Github repository. A branch is a local path containing a series of commits.
